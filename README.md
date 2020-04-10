@@ -12,4 +12,4 @@ https://github.com/Microsoft/CanadianBuildingFootprints
 ### Soils
 https://soilgrids.org/#!/?layer=TAXNWRB_250m
 
-### Powerlinesd
+### Powerlines
