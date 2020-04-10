@@ -1,10 +1,10 @@
-# NSGIS
+# NSGIS 
 A collection of available geographic data for the Nova Scotia, Canada
 
 ## Sources
 
 ### General 
-https://nsgi.novascotia.ca/gdd/ ![logo](https://raster.shields.io/badge/type-WMS-green.png)
+https://nsgi.novascotia.ca/gdd/
 
 
 ### Buildings
