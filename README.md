@@ -12,4 +12,5 @@ https://github.com/Microsoft/CanadianBuildingFootprints
 ### Soils
 https://soilgrids.org/#!/?layer=TAXNWRB_250m
 
-### Powerlines
+### Powerlines/Network
+https://open.canada.ca/data/en/dataset/00a331db-121b-445d-b119-35dbbe3eedd9
