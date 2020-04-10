@@ -5,11 +5,10 @@ A collection of available geographic data for the Nova Scotia, Canada
 
 ## Sources
 
-### General 
-https://open.canada.ca/en/open-data
-
-https://nsgi.novascotia.ca/gdd/
-
+| General Sources |  |
+|-|-|
+| [GeoNova](https://open.canada.ca/en/open-data) | Offical Nova Scotia Government Data | 
+| [Open Data Canada](https://nsgi.novascotia.ca/gdd/) | Federal portal for open data|
 
 ### Buildings
 https://github.com/Microsoft/CanadianBuildingFootprints
