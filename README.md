@@ -20,4 +20,4 @@ https://soilgrids.org/#!/?layer=TAXNWRB_250m
 https://open.canada.ca/data/en/dataset/00a331db-121b-445d-b119-35dbbe3eedd9
 
 ## Webmap (Test)
-https://htmlpreview.github.io/?https://github.com/NSCC-AGRG/NSGIS/webmaps/AGRG_MAPVIEWER.html
+https://htmlpreview.github.io/?https://github.com/NSCC-AGRG/NSGIS/tree/master/webmaps/AGRG_MAPVIEWER.html
