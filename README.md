@@ -4,7 +4,8 @@ A collection of available geographic data for the Nova Scotia, Canada
 ## Sources
 
 ### General 
-https://nsgi.novascotia.ca/gdd/
+https://nsgi.novascotia.ca/gdd/ ![logo](https://raster.shields.io/badge/type-WMS-green.png)
+
 
 ### Buildings
 https://github.com/Microsoft/CanadianBuildingFootprints
