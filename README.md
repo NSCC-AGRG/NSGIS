@@ -1,4 +1,6 @@
-# NSGIS ![logo](https://raster.shields.io/badge/type-WIP-yellow.svg)
+# NSGIS 
+![logo](https://raster.shields.io/badge/status-WIP-yellow.svg)
+
 A collection of available geographic data for the Nova Scotia, Canada
 
 ## Sources
