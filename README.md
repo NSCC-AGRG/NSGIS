@@ -7,6 +7,7 @@ A collection of available geographic data for the Nova Scotia, Canada
 
 ### General 
 https://open.canada.ca/en/open-data
+
 https://nsgi.novascotia.ca/gdd/
 
 
