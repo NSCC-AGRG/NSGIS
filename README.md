@@ -8,3 +8,8 @@ https://nsgi.novascotia.ca/gdd/
 
 ### Buildings
 https://github.com/Microsoft/CanadianBuildingFootprints
+
+### Soils
+https://soilgrids.org/#!/?layer=TAXNWRB_250m
+
+### Powerlinesd
