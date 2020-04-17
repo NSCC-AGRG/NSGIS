@@ -19,3 +19,6 @@ https://soilgrids.org/#!/?layer=TAXNWRB_250m
 ### Internet Services
 https://open.canada.ca/data/en/dataset/00a331db-121b-445d-b119-35dbbe3eedd9
 
+### Groundwater
+https://novascotia.ca/nse/groundwater/welldatabase.asp
+
