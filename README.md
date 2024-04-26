@@ -31,3 +31,6 @@ https://wigle.net/
 - https://polar.ncep.noaa.gov/estofs/glo.htm
 - ie, https://www.ventusky.com/?p=45.4;-63.8;5&l=tide
 
+## Trees
+https://sustainability.fb.com/blog/2024/04/22/using-artificial-intelligence-to-map-the-earths-forests/
+
