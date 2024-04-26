@@ -10,6 +10,7 @@ A collection of available geographic data for the Nova Scotia, Canada
 | [GeoNova](https://open.canada.ca/en/open-data) | Offical Nova Scotia Government Data | 
 | [Open Data Canada](https://nsgi.novascotia.ca/gdd/) | Federal portal for open data|
 |[Geofabrik](http://download.geofabrik.de/north-america/canada/nova-scotia.html)|Open Street Map Layers|
+|[GEE-Community](https://gee-community-catalog.org/)| Google Earth Engine Community Layers|
 
 ### Buildings
 https://github.com/Microsoft/CanadianBuildingFootprints
@@ -25,4 +26,8 @@ https://novascotia.ca/nse/groundwater/welldatabase.asp
 
 ## Wifi
 https://wigle.net/
+
+## Tides & Storm Surge
+- https://polar.ncep.noaa.gov/estofs/glo.htm
+- ie, https://www.ventusky.com/?p=45.4;-63.8;5&l=tide
 
